@@ -40,6 +40,7 @@ python src/loader.py
 # Launch the SOC Dashboard
 streamlit run src/app.py
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <a name="turkce-version"></a>
 ## 🇹🇷 Türkçe Versiyon
